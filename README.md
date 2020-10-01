@@ -1,4 +1,4 @@
-# Covid19
+# Covid19 :
 
 It is an android application which fetches data of corona cases world wide from api and display it country wise.
 
